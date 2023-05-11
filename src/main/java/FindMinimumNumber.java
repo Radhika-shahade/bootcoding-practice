@@ -8,6 +8,9 @@ public class FindMinimumNumber {
         int[]num= new int[size];
         System.out.println("Enter the elements of array:");
         for(int i=0;i<num.length;i++)
+
+
+
         {
             num[i]=tl.nextInt();
         }
