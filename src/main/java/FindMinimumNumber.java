@@ -11,6 +11,7 @@ public class FindMinimumNumber {
 
 
 
+
         {
             num[i]=tl.nextInt();
         }
