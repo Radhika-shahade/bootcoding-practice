@@ -2,9 +2,9 @@ package inheritance;
 
 public class CheckBalance {
 
-    public int checkingBalance(int amount ,int wa)
+    public int checkingBalance(int totalamount ,int moneywithdraw)
     {
-        int balance= amount-wa;
+        int balance= totalamount-moneywithdraw;
         System.out.println("bank balance is:"+balance);
         return balance;
 
@@ -12,11 +12,11 @@ public class CheckBalance {
 
     public static void main(String[] args) {
         Deposit dp= new Deposit();
-        dp.depositedamount(50000);
-        Withdraw wn= new Withdraw();
-        wn.withdrawAmount(5000);
+       int totalamount = dp.depositedamount(15000);
+        Withdraw wd= new Withdraw();
+       int  moneywithdraw = wd.withdrawAmount(4000);
         CheckBalance cv= new CheckBalance();
-        cv.checkingBalance(50000,5000 );
+        cv.checkingBalance(totalamount,moneywithdraw );
 
 
     }
