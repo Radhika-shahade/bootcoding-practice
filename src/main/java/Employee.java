@@ -33,6 +33,15 @@ public void employeeDetail()
         result.employeeDetail();
         result.getAnnualSalary();
         result.getRiseSalary(5);
+        Employee result2= new Employee();
+        result.id=102;
+        result.firstname="ramesh";
+        result.lastname="chaudhary";
+        result.salary=30000;
+        result.employeeDetail();
+        result.getAnnualSalary();
+        result.getRiseSalary(15);
+
 
 
     }
