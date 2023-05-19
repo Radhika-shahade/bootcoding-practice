@@ -6,7 +6,6 @@ public class ElementSum {
         {
              b=b+a[i];
 
-
         }
         System.out.println(+b);
     }
