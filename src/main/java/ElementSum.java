@@ -5,6 +5,8 @@ public class ElementSum {
         for(int i=0;i<a.length;i++)
         {
              b=b+a[i];
+
+
         }
         System.out.println(+b);
     }
