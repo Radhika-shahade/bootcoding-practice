@@ -8,6 +8,7 @@ public class ComparingAge {
         }
         else {
             System.out.println("candidate is not eligible to vote");
+
         }
     }
 

@@ -14,7 +14,7 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        getFactorial(3);
+        getFactorial(7);
 
     }
 

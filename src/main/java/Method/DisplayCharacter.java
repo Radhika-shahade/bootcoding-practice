@@ -9,7 +9,7 @@ public class DisplayCharacter {
 
     public static void main(String[] args) {
         DisplayCharacter  result= new DisplayCharacter();
-        result.displayMiddleCharacter("2345");
+        result.displayMiddleCharacter("2456673");
 
 
     }

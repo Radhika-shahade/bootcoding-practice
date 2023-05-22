@@ -8,7 +8,7 @@ public class FindingVowelOrNot {
 
     public static void main(String[] args) {
         FindingVowelOrNot result= new  FindingVowelOrNot();
-       boolean ans= result.isVowel('a');
+       boolean ans= result.isVowel('e');
         System.out.println(ans);
     }
 }

@@ -9,7 +9,7 @@ public class YearsToMonth {
         for (int i=0;i<years.length;i++)
         {
             double result =years[i]*12;
-            System.out.println(+result+ "months");
+            System.out.println(+result+ " months");
         }
 
 

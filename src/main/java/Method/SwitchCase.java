@@ -19,7 +19,7 @@ public class SwitchCase {
     }
 
     public static void main(String[] args) {
-        boolean result =checkingVowelsOrNot('e');
+        boolean result =checkingVowelsOrNot('i');
         System.out.println(result);
     }
 }

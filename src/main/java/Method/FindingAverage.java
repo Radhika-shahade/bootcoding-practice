@@ -9,7 +9,7 @@ public class FindingAverage {
 
     public static void main(String[] args) {
         FindingAverage result= new FindingAverage();
-        result.computingAverage(25,45,65);
+        result.computingAverage(30,45,65);
 
     }
 

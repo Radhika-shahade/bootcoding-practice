@@ -14,7 +14,7 @@ public class FindingEvenAndOdd {
 
     public static void main(String[] args) {
         FindingEvenAndOdd result= new FindingEvenAndOdd();
-        result.checkingEvenAndOdd(5);
+        result.checkingEvenAndOdd(9);
     }
 
 }

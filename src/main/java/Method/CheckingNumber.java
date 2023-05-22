@@ -19,5 +19,6 @@ public class CheckingNumber {
 
     public static void main(String[] args) {
         numberIsNegativeOrPositiveOrZero(5);
+
     }
 }

@@ -20,7 +20,7 @@ public class FindSmallestNumber {
     }
 
     public static void main(String[] args) {
-        findingSmallestNumber(63,23,43);
+        findingSmallestNumber(63,30,43);
 
     }
 }
