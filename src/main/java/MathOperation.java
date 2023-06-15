@@ -16,9 +16,6 @@ public class MathOperation {
         System.out.println("quotient is:"+g);
         int h=a%b;
         System.out.println("remainder is:"+h);
-
-
-
     }
 
 }
