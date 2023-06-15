@@ -21,6 +21,5 @@ public class SimpleInterest {
         SimpleInterest si= new SimpleInterest();
         si.calculateSI(principal,time,rate);
 
-
     }
 }
