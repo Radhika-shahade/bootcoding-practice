@@ -20,5 +20,7 @@ public class SimpleInterest {
         double rate= sc.nextDouble();
         SimpleInterest si= new SimpleInterest();
         si.calculateSI(principal,time,rate);
+
+
     }
 }
