@@ -24,5 +24,6 @@ public class IfElse {
         System.out.println("enter any number");
         int num =sc.nextInt();
         checkNumber(num);
+
     }
 }
