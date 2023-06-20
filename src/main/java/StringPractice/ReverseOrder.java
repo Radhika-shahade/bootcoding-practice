@@ -7,6 +7,7 @@ public class ReverseOrder {
       int length= s2.length;
         for(int i=length-1;i>=0;i--)
         {
+
             System.out.print(s2[i]);
         }
     }
