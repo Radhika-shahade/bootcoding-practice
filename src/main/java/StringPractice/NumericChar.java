@@ -12,6 +12,7 @@ public class NumericChar {
                 count++;
             }
         }
+
         System.out.println(count);
     }
 }
