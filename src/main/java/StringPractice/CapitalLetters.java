@@ -14,6 +14,7 @@ public class CapitalLetters {
               count++;
           }
         }
+
         System.out.println(count);
     }
 }
