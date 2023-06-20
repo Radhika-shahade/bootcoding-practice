@@ -1,6 +1,7 @@
 package leetcodequestions;
 
-public class MoveZeros {
+public class
+MoveZeros {
     public void moveElements(int[]arr)
     {
         int indexcount=0;
