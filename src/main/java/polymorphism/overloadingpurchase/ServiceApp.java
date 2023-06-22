@@ -7,8 +7,6 @@ public class ServiceApp {
         MobileService ms= new MobileService();
         Scanner sc= new Scanner(System.in);
         System.out.println("Customer 1:");
-        System.out.println(" which mobile do you want? ");
-         String name1 =sc.nextLine();
          ms.purchase();
          ms.print();
         System.out.println("Customer 2:");

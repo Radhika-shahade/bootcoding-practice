@@ -1,3 +1,5 @@
+package basic;
+
 public class ArrayOddElement {
     public static void main(String[] args) {
         int[]b={7, 22, 19, 44, 45, 65, 66};

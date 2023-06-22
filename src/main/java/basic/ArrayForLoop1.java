@@ -1,3 +1,5 @@
+package basic;
+
 public class ArrayForLoop1 {
     public static void main(String[] args)
     {

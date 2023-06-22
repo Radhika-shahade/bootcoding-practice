@@ -1,3 +1,5 @@
+package basic;
+
 public class ArrayReverseOrder {
     public static void main(String[] args) {
         int[]ages=new int[5];

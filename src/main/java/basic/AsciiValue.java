@@ -1,3 +1,5 @@
+package basic;
+
 public class AsciiValue {
    static char d= 'a';
    static int result= d;

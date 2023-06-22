@@ -1,3 +1,5 @@
+package basic;
+
 public class CheckNumber {
     public void m1(int a, int b)
     {

@@ -1,3 +1,5 @@
+package basic;
+
 public class Account {
     String name;
     int id;
