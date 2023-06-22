@@ -5,5 +5,8 @@ public class WhiteMarker extends MarkerPen{
     {
         System.out.println("Camlin");
     }
-
+    public void display(double cost)
+    {
+        System.out.println("White marker class is executing ");
+    }
 }

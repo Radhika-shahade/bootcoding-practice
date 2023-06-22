@@ -8,6 +8,7 @@ public class PenApp {
         wm.companyName();
         wm.colour("blue");
         wm.display(30);
+        Pen p2=wm;
         Pen obj= new WhiteMarker();
         System.out.println("Type casting");
         WhiteMarker wm1= (WhiteMarker) p;  //casting  parent class method is calling
@@ -15,6 +16,7 @@ public class PenApp {
         GelPen gelpen = (GelPen) new Pen();
         gelpen.display(20);  // pen class method
         gelpen.colourOfPen("black"); // gelpen class method
+
 
 
 
