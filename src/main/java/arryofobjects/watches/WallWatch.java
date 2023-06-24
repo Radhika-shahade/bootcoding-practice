@@ -7,4 +7,9 @@ public class WallWatch extends Watch{
         super(companyName);
         this.cost=cost;
     }
+    public void display()
+    {
+        System.out.println("company name: "+ companyName + "cost is "+cost );
+    }
+
 }
