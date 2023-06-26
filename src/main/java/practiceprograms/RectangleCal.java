@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class RectangleCal {
     double width= 5.6;
     double height=8.5;
