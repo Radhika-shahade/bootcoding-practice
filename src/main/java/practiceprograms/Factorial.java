@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class Factorial {
     public static long [] findfactorial(int[]nums)
     {

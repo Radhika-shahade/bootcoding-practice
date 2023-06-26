@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class FindingCube {
     int cube;
     public void m1(int num)

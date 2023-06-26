@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class FindingNumber {
     public void m1(int num)
     {

@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class FindCube {
     static int a=5;
     public static void main(String[]args)
