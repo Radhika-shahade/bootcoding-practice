@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class PreviousMax {
     public static void main(String[] args) {
         int arr[]={22,43,20,30};
