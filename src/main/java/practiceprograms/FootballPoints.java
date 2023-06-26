@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class FootballPoints {
     public void m1(int wins, int draws,int losses)
     {

@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class HarmonicSeries {
 
     public static void main(String[]args)
