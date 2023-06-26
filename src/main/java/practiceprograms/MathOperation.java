@@ -1,3 +1,5 @@
+package practiceprograms;
+
 import java.time.Clock;
 
 public class MathOperation {
