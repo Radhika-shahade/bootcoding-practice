@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class Customer {
     public void argument(double prob, int price, int pay)
     {
