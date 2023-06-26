@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class Employee {
     int id ;
     String firstname;
@@ -9,7 +11,7 @@ public void employeeDetail()
     System.out.println("Id of employee: " +id);
     System.out.println("First name is: "+firstname);
     System.out.println("last name is: " +lastname);
-    System.out.println("salary of Employee:" +salary);
+    System.out.println("salary of practiceprograms.Employee:" +salary);
 }
 
     public void getAnnualSalary()
