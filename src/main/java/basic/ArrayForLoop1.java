@@ -1,4 +1,4 @@
-package basic;
+package src.main.java.basic;
 
 public class ArrayForLoop1 {
     public static void main(String[] args)
