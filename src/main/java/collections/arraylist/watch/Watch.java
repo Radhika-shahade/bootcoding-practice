@@ -1,4 +1,4 @@
-package collections.arraylist.watch;
+package src.main.java.collections.arraylist.watch;
 
 public class Watch {
     protected String companyName;
