@@ -1,4 +1,4 @@
-package casting.nonpremitivecasting;
+package src.main.java.casting.nonpremitivecasting;
 
 public class Child extends Parent{
     public void m1()
