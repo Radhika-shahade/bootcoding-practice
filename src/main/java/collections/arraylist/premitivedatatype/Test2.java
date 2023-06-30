@@ -1,4 +1,4 @@
-package collection.arraylist.premitivedatatype;
+package collections.arraylist.premitivedatatype;
 
 import java.util.ArrayList;
 

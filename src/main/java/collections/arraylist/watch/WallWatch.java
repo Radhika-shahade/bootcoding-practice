@@ -1,4 +1,4 @@
-package collection.arraylist.watch;
+package collections.arraylist.watch;
 
 public class WallWatch extends Watch{
     private int cost;

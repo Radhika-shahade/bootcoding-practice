@@ -1,4 +1,4 @@
-package collections.arraylist.studentreport;
+package src.main.java.collections.arraylist.studentreport;
 
 import java.util.ArrayList;
 
@@ -9,7 +9,7 @@ public class RecordApp2 {
         for(int i=0;i< records.size();i++)
         {
             System.out.println(i);
-            System.out.println("Name: " + records.get(i).getName());
+            System.out.println("Name: "+ records.get(i).getName());
             System.out.println("cgpa: "+ records.get(i).getCgpa());
             System.out.println("isPassOut: "+records.get(i).isPursuing());
         }

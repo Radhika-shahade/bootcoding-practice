@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class SumOfPositiveNumber {
     int result=0;
     public int m1(int num[])

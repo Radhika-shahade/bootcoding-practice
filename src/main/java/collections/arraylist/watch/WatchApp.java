@@ -1,4 +1,4 @@
-package collection.arraylist.watch;
+package collections.arraylist.watch;
 
 
 import java.util.ArrayList;

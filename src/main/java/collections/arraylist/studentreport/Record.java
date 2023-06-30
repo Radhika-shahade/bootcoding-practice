@@ -1,4 +1,4 @@
-package collections.arraylist.studentreport;
+package src.main.java.collections.arraylist.studentreport;
 
 public class Record {
     private String name;

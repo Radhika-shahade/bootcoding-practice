@@ -1,4 +1,4 @@
-package collections.arraylist.studentreport;
+package src.main.java.collections.arraylist.studentreport;
 
 import java.util.ArrayList;
 import java.util.Scanner;

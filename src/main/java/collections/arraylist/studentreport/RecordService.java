@@ -1,4 +1,4 @@
-package collections.arraylist.studentreport;
+package src.main.java.collections.arraylist.studentreport;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -11,8 +11,6 @@ public class RecordService {
             records.add(record);
         }
         return records;
-
-
     }
     public Record buildRecord()
     {

@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class UnicodeValue {
 
     public static void main(String[] args) {

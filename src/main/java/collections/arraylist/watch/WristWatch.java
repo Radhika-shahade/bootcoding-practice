@@ -1,4 +1,4 @@
-package collection.arraylist.watch;
+package collections.arraylist.watch;
 
 public class WristWatch extends Watch  {
     private String dial;

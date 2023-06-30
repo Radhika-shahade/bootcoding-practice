@@ -6,10 +6,10 @@ public class ServiceApp {
     public static void main(String[] args) {
         MobileService ms= new MobileService();
         Scanner sc= new Scanner(System.in);
-        System.out.println("Customer 1:");
+        System.out.println("practiceprograms.Customer 1:");
          ms.purchase();
          ms.print();
-        System.out.println("Customer 2:");
+        System.out.println("practiceprograms.Customer 2:");
          System.out.println(" which mobile do you want? ");
          String name2=sc.nextLine();
          sc.nextLine();
@@ -17,7 +17,7 @@ public class ServiceApp {
         int quantity=sc.nextInt();
         ms.purchase(name2, quantity);
         ms.print();
-        System.out.println("Customer 3:");
+        System.out.println("practiceprograms.Customer 3:");
         System.out.println(" which mobile do you want? ");
         String name3=sc.nextLine();
       sc.nextLine();

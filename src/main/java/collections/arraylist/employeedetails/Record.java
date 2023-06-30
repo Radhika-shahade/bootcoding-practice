@@ -1,4 +1,4 @@
-package collections.arraylist.employeedetails;
+package src.main.java.collections.arraylist.employeedetails;
 //Keep 10k employees into arraylist and print their name, experience, salary, age
 public class Record {
     private String name;

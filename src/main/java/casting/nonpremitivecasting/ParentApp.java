@@ -1,4 +1,4 @@
-package casting.nonpremitivecasting;
+package src.main.java.casting.nonpremitivecasting;
 
 public class ParentApp {
     public static void main(String[] args) {

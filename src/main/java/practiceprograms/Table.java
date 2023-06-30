@@ -1,3 +1,5 @@
+package practiceprograms;
+
 import java.util.Scanner;
 
 public class Table {

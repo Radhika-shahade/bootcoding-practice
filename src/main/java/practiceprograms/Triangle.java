@@ -1,3 +1,5 @@
+package practiceprograms;
+
 public class Triangle {
     public double calculation(double base, double height)
     {
