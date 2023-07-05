@@ -1,4 +1,4 @@
-package casting.watchexample;
+package src.main.java.casting.watchexample;
 
 public class WatchApp {
     public static void main(String[] args) {
@@ -10,6 +10,7 @@ public class WatchApp {
         System.out.println("Child is cast to parent");
         Watch res=(Watch)wristwatch;
         res.dialOfWatch();
+
 
         //Object of Wall watch and assign to watch
         System.out.println("Child is cast to parent"); //it is en ex of static binding
