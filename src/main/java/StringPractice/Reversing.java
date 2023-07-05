@@ -8,6 +8,5 @@ public class Reversing {
        {
            System.out.println(val[i]);
        }
-
     }
 }
