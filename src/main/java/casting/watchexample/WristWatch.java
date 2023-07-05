@@ -1,4 +1,4 @@
-package casting.watchexample;
+package src.main.java.casting.watchexample;
 
 public class WristWatch extends Watch{
     public void prize()
