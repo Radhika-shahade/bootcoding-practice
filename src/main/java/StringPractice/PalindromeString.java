@@ -1,4 +1,4 @@
-package StringPractice;
+package src.main.java.StringPractice;
 //Checking if a String is Palindrome:
 public class PalindromeString {
     public static void main(String[] args) {
