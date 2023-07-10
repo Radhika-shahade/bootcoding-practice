@@ -11,12 +11,13 @@ public class FibonacciSeries {
         {
             return 1;
         }
-        return fib(n-1)+fib(n-2);
+        return (fib(n-1)+fib(n-2));
     }
 
     public static void main(String[] args) {
         FibonacciSeries obj= new FibonacciSeries();
-        System.out.println( obj.fib(5));
+        int ans = obj.fib(10);
+        System.out.println(ans);
     }
 
 }
