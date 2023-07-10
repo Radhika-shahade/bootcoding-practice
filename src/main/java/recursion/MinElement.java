@@ -19,7 +19,7 @@ public class MinElement {
 
     public static void main(String[] args) {
         MinElement obj= new MinElement();
-        int arr[]={1,2,3,4};
+        int arr[]={2,1,3,4};
         System.out.println(obj.findMinimumElement(arr,2,0));
 
 
