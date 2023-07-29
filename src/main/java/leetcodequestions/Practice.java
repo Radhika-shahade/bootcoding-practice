@@ -1,4 +1,4 @@
-package leetcodequestions;
+package src.main.java.leetcodequestions;
 
 public class Practice {
     public int[] runningSum(int[] nums)
