@@ -1,4 +1,4 @@
-package patternprogram;
+package src.main.java.patternprogram;
 //1
 //12
 //123
