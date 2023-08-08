@@ -1,38 +1,29 @@
-package leetcodequestions;
+package src.main.java.leetcodequestions;
 
 import java.util.Arrays;
 
-//Remove Duplicates from Sorted Array
+// 26.Remove Duplicates from Sorted Array
+//Input: nums = [0,0,1,1,1,2,2,3,3,4]
+// Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
 public class RemoveDuplicates {
-    public int removeDuplicates(int[] nums)
+    public static int removeDuplicates(int[] nums)
     {
-        int indexcount=1;
-        for(int i=0;i< nums.length-1;i++)
-        {
-            if(nums[i]!=nums[i+1]) //2 2 4 5 8 8 9
-            {
-                nums[indexcount]=nums[i+1];
-
-                indexcount++;
-
-            }
-
-        }
-
-        return indexcount+1;
-
+      int rd=0;
+      for(int i=0;i<nums.length;i++)
+      {
+          if(nums[rd]!=nums[i])
+          {
+              rd++;
+              nums[rd]=nums[i];
+          }
+      }
+      return rd+1;
     }
 
     public static void main(String[] args) {
-        RemoveDuplicates object = new  RemoveDuplicates();
-        int nums[]={0,0,1,1,1,2,2,3,3,4};
-       int rd = object.removeDuplicates(nums);
-        for(int i=0;i< rd;i++) {
-            System.out.println(nums[i]);
-        }
-
-
-
+        int arr[]={0,0,1,1,1,2,2,3,3,4};
+       int ans = removeDuplicates(arr);
+        System.out.println(ans);
     }
 
 }
